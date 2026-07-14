@@ -1,0 +1,6 @@
+{
+  "name": "Charity Trust for Less-Privileged",
+  "description": "An official landing page and donation portal for the Charity Trust for Less-Privileged Peoples and Children, featuring direct donation processing and volunteer tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
